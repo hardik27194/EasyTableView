@@ -1,6 +1,6 @@
 //
 // Prefix header for all source files of the 'EasyTable' target in the 'EasyTable' project
-//
+//EasyTableView_Prefix.pch
 
 #ifdef __OBJC__
     #import <Foundation/Foundation.h>
